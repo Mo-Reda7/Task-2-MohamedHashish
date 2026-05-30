@@ -46,6 +46,10 @@ The project displays:
 * Confusion Matrix
 * Heatmap Visualization
 
+## Screenshots
+
+Screenshots are available in the screenshots folder.
+
 ## Author
 
 Mohamed Hashish
